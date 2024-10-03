@@ -1098,7 +1098,7 @@
 
 🟧 Research Nimble Fulfillment (B) 🦾📦 |Rif|(Vl)
 
-🟧 Research Automated Driving (B) 🚕 |Lnr| :: Waymo electric and Tesla
+🟧 Research Automated Driving (B) 🚕 |Lrn| :: Waymo electric and Tesla
 
 🟨 Dishes (L) 🍽️ |Coop|
 
@@ -2152,7 +2152,7 @@
 
 🟩🟩 Sunset Rosé at the Bodega 🍷|Joy|:: Spread kindness with strangers walking by. Had some fun ideas for Jess. 
 
-🟨🟨 Lindsay's famous vegan Enchiladas 🍠🫘🌶 |HtlH|
+🟨🟨 Lindsay's famous vegan Enchiladas 🍠🫘🌶 |Hlth|
 
 
 
@@ -3917,7 +3917,7 @@
 
 🟨 Leftover Bbq lentil tacos (L) 🌮|Sus| 
 
-🟩🟩 Kind Comss 📲 |Kidn|:: texted with Val and Barbara 
+🟩🟩 Kind Comms 📲 |Kind|:: texted with Val and Barbara 
 
 🟪🟪 How to work with Taurus season ♉️🗒 |Lrn|
 
@@ -11047,7 +11047,7 @@
 
 🟦🟦 Mindfulness insights ✨🪷 |Tru|
 
-🟦🟦 Walk & Sunshine Park lay 🌤🌴 |Nat|
+🟦🟦 Walk & Sunshine Park lay 🌤🌴 |Natr|
 
 🟨 Leftover curry for lunch (L) 🍛 |Simp| 
 
@@ -13353,7 +13353,7 @@
 
 🟨 Compost (L) 🌱 |Eco|
 
-🟨 Tidying up (L) 🧹🧽 |Min|
+🟨 Tidying up (L) 🧹🧽 |Mini|
 
 🟧 IP Address Encoding (B) 🚏👨🏻‍💻|+E|{EP1}
 
@@ -17657,7 +17657,7 @@
 
 🟪🟪 Minimalism (B,L) 🪷|Mini|
 
-🟪 Beach Mindfulness (L) 🌊|Sprt|
+🟪 Beach Mindfulness (L) 🌊|Spir|
 
 🟨 Breakfast (L) 🍓|Hlth|
 
