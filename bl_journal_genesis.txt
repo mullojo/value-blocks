@@ -661,7 +661,7 @@
 
 🟧 Explored Where People Spend Money (L) 💸❤️‍🩹 |+E|
 
-🟦🟦 Walk to Pier 🌊🎡🌅
+🟦🟦 Walk to Pier 🌊🎡🌅 |Mov|
 
 🟧 nacl Cryptography Exploration (B) 🔑💌 |+E|
 
@@ -1574,7 +1574,7 @@
 
 🟨 Made Green Juice & Online Groceries (L) 🛒🍋 |Simp| 
 
-🟨 Strawberry blueberry oatmeal (L) 🥣🫐
+🟨 Strawberry blueberry oatmeal (L) 🥣🫐 |Hlth|
 
 🟧 Encryption vault design (B) 🔏 |+E|{EP}
 
@@ -1625,7 +1625,7 @@
 
 🟧🟧 Reviewed "People" cryptograhpy basics 🙋‍♀️🧠|+E|{EP}
 
-🟨 Teriyaki tofu & bok choy w/ blueberry cucumber salad (L) 🍚🥒
+🟨 Teriyaki tofu & bok choy w/ blueberry cucumber salad (L) 🍚🥒 |Hlth|
 
 🟧🟧 Brainstormed reasons & events "People" records would be used 👩🏻‍🍳🏄🏻‍♀️|+E|{EP}
 
@@ -1676,7 +1676,7 @@
 
 🟧 Wheel of The Way diagram (B) 🌀✍🏼 |+E|
 
-🟨 Black beans tacos w cabbage slaw (L) 🫘🌽
+🟨 Black beans tacos w cabbage slaw (L) 🫘🌽 |Hlth|
 
 🟧🟧 Park sit & Visioning 🌴✨ |+E|
 
@@ -3950,7 +3950,7 @@
 
 🟪 Cold Brew & Insights (B) ☕️📝 |In|
 
-🟪 Peaceful Morning (L) 🎀 |Trfm|
+🟪 Peaceful Morning (L) 🎀 |Tsfm|
 
 🟨 Acai Protein Smoothies (L) 🍌🍇 |Hlth|
 
@@ -17740,7 +17740,7 @@
 
 🟧 Comms for Blocks📱(L) |+Econ|
 
-🟦 Bath (B) 🛁 |Health|
+🟦 Bath (B) 🛁 |Hlth|
 
 🟪 Mindfulness Session (B) 🪷|Peac|
 
